@@ -1,7 +1,7 @@
 import './App.css'
 
 import { WorldClock } from './components/WorldClock';
-import { NotesApp } from './components/NotesApp';
+import  NotesApp  from './components/NotesApp';
 
 function App() {
 
